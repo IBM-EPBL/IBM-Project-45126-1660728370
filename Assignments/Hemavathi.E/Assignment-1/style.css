@@ -1,0 +1,53 @@
+.A{
+    background-color:navy;2    height:200px;
+    width:auto;
+    display:grid;
+     grid-template-columns:1fr 2fr;
+    s
+}
+.A .left_side{
+    margin:30px;
+    height:180px;
+    width:180px;
+    background-color:white;
+}
+.A .right_side{
+    font-size:30px;
+    color:white;
+}
+
+.B{
+   background-color:white;
+    height:150px;
+    width:auto;
+     display:grid;
+     grid-template-columns:1fr 2fr;
+}
+.C{
+   background-color:white;
+    height:auto;
+    width:auto;
+     display:grid;
+     grid-template-columns:1fr 1fr;
+}
+
+.C .first .box .percent{
+    position:relative;
+    width:100%;
+    height:10px;
+background:blue;
+}
+.C .first .box .percent div{
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+   background:blue;
+}
+.C .second.box .percent div{
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+   background:blue;
+}
