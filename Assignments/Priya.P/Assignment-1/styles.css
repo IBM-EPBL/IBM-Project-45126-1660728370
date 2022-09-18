@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(230, 230, 230);
+    color: rgb(83, 83, 83);
+}
+
+
+.social-icons a i{
+    color: rgb(69, 69, 69);
+    margin-left: 1rem;
+}
+
+
+.lower-box {
+    background-color: white;
+    width: 100%;
+    display: flex;
+    padding: 0 0 2rem 0;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 3px 8px 8px rgba(47, 48, 48, 0.292);
+
+}
+.lower-box .left-container{
+    width: 90%;
+    margin: 2rem 0 0 2rem;
+}
+.left-container .title{
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
+.left-container .paragraph {
+    line-height: 1.5;
+}
+.right-container {
+    margin: 2rem 0 0 2rem;
+    width: 50%;
+}
+.right-container table {
+    margin: 1rem;
+    line-height: 2;
+    column-gap: 50rem;
+}
+.right-container table td {
+    padding: 0 2rem 0 0;
+}
+.skill-bars{
+    margin: 4rem 0 0 0 ;
+}
+.right-container .skill-bars{
+    margin: 5.4rem 0 0 0 ;
+}
+/* Container for skill bars */
+.container {
+    width: 100%; 
+    background-color: #ddd; 
+  }
+  
+  
