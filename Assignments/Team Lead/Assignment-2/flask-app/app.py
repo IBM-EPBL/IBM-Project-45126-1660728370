@@ -39,7 +39,6 @@ def signin():
         password = request.form['password']
         db = get_db()
         user = db.execute('SELECT password FROM users WHERE username = ?', (username, )).fetchone()
-        
         if user is None:
             error = 'Incorrect Username/Password.'
         elif password != user['password']:
@@ -64,8 +63,7 @@ def signup():
         db = get_db()
         curr = db.cursor()
         
-        curr.execute(
-            'INSERT INTO users (username, password, email, name) VALUES (?, ?, ?, ?);', (username, password, email, name)
+        curr.execute( 'INSERT INTO users (username, password, email, name) VALUES (?, ?, ?, ?);', (username, password, email, name)
         )
         db.commit()
         curr.close()
