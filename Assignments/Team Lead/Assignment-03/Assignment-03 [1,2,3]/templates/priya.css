@@ -1,0 +1,22 @@
+*{
+    background-color: palevioletred
+}
+h1{
+    color:aliceblue;
+    text-align:center;
+    text-decoration: solid;
+    text-transform: capitalize;
+}
+.box {
+    display: inline;
+    gap: 15px 2em;
+  }
+  
+  
+   
+div {
+    
+    border: 5px solid white;
+   
+  }
+ 
