@@ -1,11 +1,3 @@
-
-Smart Fashion Recommender Application
-
-Category: Cloud App Development
-
-Batch Name :B3-3M5E
-
-
     
 #  IBM-Project-45126-1660728370
 
