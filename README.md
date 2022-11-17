@@ -4,7 +4,7 @@
 # Smart Fashion Recommender Application
 
 
-## Category: Cloud App Development
+# Category: Cloud App Development
 
 
 **Batch Name :** B3-3M5E
@@ -25,12 +25,12 @@
 
 ---
 **Industry Mentor(s) Name :** Krishna Chaitanya
-
 **Faculty Mentor(s) Name :** Chandrasekar S
+ 
 ---
 
 **Degree	:**	
-Bachelor of Engineering/Technology
+Bachelor of Engineering
 
 **Branch	:**	
 Computer Science Engineering
