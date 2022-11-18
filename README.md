@@ -1,12 +1,7 @@
-    
-#  IBM-Project-45126-1660728370
-
-# Smart Fashion Recommender Application
+<h2 align="center">Smart Fashion Recommender Application<a href="https://github.com/IBM-EPBL/IBM-Project-45126-1660728370/" target="_blank"></h2>
 
 
-# Category: Cloud App Development
-
-
+ 
 **Batch Name :** B3-3M5E
 
 ---
