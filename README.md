@@ -53,7 +53,7 @@ University College of Engineering,Arni
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-45126-1660728370/tree/main/Project%20Design%20%26%20%20Planning/Project%20Design%20Phase%20II)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-45126-1660728370/tree/main/Project%20Design%20%26%20%20Planning/Project%20Planning)
 
- Demo video link:  https://www.youtube.com/watch?v=V34KN0Ud_oc&feature=youtu.be
+ Demo video link:  [https://www.youtube.com/watch?v=V34KN0Ud_oc&feature=youtu.be](https://youtu.be/V34KN0Ud_oc)
 ## Tech Stack
 
 **Frontend:** Html+Css+JavaScript
