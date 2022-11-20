@@ -63,7 +63,6 @@ University College of Engineering,Arni
  
  
  --------------
-##Project demo link
      Demo video link:  https://www.youtube.com/watch?v=V34KN0Ud_oc&feature=youtu.be
    
 
